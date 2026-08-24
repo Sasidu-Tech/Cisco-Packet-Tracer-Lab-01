@@ -1,0 +1,8 @@
+enable
+configure terminal
+
+no shutdown
+exit
+
+end
+write memory
